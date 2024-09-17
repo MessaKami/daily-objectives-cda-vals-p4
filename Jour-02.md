@@ -3,7 +3,7 @@
 ### Mardi 17/09/2024 :
 
 
-* [ ] Comprendre le métier de développeur, aperçu sur le mindset du dev
+* [X] Comprendre le métier de développeur, aperçu sur le mindset du dev
 * [ ] Élaboration d’une stratégie pour l’anglais
 * [ ] Savoir comment aborder la gestion de son temps
 * [ ] Savoir comment poser des questions
