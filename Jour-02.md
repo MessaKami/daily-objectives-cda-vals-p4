@@ -4,23 +4,23 @@
 
 
 * [X] Comprendre le métier de développeur, aperçu sur le mindset du dev
-* [ ] Élaboration d’une stratégie pour l’anglais
-* [ ] Savoir comment aborder la gestion de son temps
-* [ ] Savoir comment poser des questions
-* [ ] Savoir comment aborder un problème
+* [X] Élaboration d’une stratégie pour l’anglais
+* [X] Savoir comment aborder la gestion de son temps
+* [X] Savoir comment poser des questions
+* [X] Savoir comment aborder un problème
 
 #### Environnement de travail
 
-* [ ] Configuration de son environnement de travail
-  * [ ] Mise à jour OS (Linux, Windows, Mac)
-  * [ ] Installation (Discord)
+* [X] Configuration de son environnement de travail
+  * [X] Mise à jour OS (Linux, Windows, Mac)
+  * [X] Installation (Discord)
   * [ ] Installation navigateur (Developper Edition)
-  * [ ] Création et configuration Mail pro 
+  * [X] Création et configuration Mail pro 
   * [ ] Création et configuration Twitter pro 
 
-* [ ] Découverte de Linux :
-  * [ ] Savoir ce qu'est Linux
-  * [ ] Savoir ce qu'est une distribution Linux
+* [X] Découverte de Linux :
+  * [X] Savoir ce qu'est Linux
+  * [X] Savoir ce qu'est une distribution Linux
   * [ ] Comprendre l'arborescence de Linux
 
 * [ ] Découverte du Terminal : 
