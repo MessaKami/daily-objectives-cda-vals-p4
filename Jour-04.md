@@ -2,16 +2,16 @@
 
 ### Jeudi 19/09/2024 :
 
-- [ ] Finaliser les dailys précédents
-- [ ] Commencer à réfléchir à son projet Fil rouge
+- [X] Finaliser les dailys précédents
+- [X] Commencer à réfléchir à son projet Fil rouge
 
 #### Github + Gitflow
 
-- [ ] Découverte de Github CLI `gh`
+- [X] Découverte de Github CLI `gh`
 
-  - [ ] Créer son premier repo Github (local + origin)
+  - [X] Créer son premier repo Github (local + origin)
 
-- [ ] Découverte de Gitflow
+- [X] Découverte de Gitflow
 
 ### Markdown :
 
