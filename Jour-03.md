@@ -2,7 +2,7 @@
 
 ### Mercredi 18/09/2024 :
 
-- [ ] Faire le wargame bandit jusqu'au niveau 5 (anglais)
+- [X] Faire le wargame bandit jusqu'au niveau 5 (anglais)
 
 Seulement si le wargame bandit est au niveau 5 minimum :
 
@@ -37,17 +37,17 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 * [X] Comprendre le fonctionnement des branches dans Git :
   - [X] Lister, changer, créer, supprimer des branches
   - [X] Quelle est la différence entre `Git switch` et `Git checkout`
-* [ ] Comprendre le merge dans Git
-  - [ ] Comprendre le "fast forward"
-  - [ ] Quelle est la différence entre un "commit" et un "merge commit" ?
+* [X] Comprendre le merge dans Git
+  - [X] Comprendre le "fast forward"
+  - [X] Quelle est la différence entre un "commit" et un "merge commit" ?
 
 #### Github
 
 - [ ] Pimper son profile Github (belle du village)
-- [ ] Configurer un tunnel SSH entre son local et son Github
-- [ ] Découvrir l'interface de Github :
-  - [ ] Pull Requests
-  - [ ] Branches
+- [X] Configurer un tunnel SSH entre son local et son Github
+- [X] Découvrir l'interface de Github :
+  - [X] Pull Requests
+  - [X] Branches
   - [ ] Issues
-  - [ ] Settings projet
-  - [ ] Settings profile
+  - [X] Settings projet
+  - [X] Settings profile
