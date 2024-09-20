@@ -9,8 +9,8 @@
 - [X] Comprendre le principe de "Pull Request"
 - [X] Comprendre le rebase dans Git (quelle différence avec le merge ?)
 - [X] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
-- [ ] Comprendre l'utilité et le fonctionnement de `git stash`
-- [ ] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
+- [X] Comprendre l'utilité et le fonctionnement de `git stash`
+- [X] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
 - [X] Découverte de LazyGit
   - [X] Installation et configuration
   - [X] Intégration dans son editeur / workflow
