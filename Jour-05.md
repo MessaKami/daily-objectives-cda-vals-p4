@@ -2,19 +2,19 @@
 
 ### Vendredi 20/09/2024 :
 
-- [ ] Rattrapage de la semaine / Finalisation des daily objectives de la semaine / Travailler sur les notions mal comprises
+- [X] Rattrapage de la semaine / Finalisation des daily objectives de la semaine / Travailler sur les notions mal comprises
 
 ### Git
 
-- [ ] Comprendre le principe de "Pull Request"
-- [ ] Comprendre le rebase dans Git (quelle différence avec le merge ?)
-- [ ] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
+- [X] Comprendre le principe de "Pull Request"
+- [X] Comprendre le rebase dans Git (quelle différence avec le merge ?)
+- [X] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
 - [ ] Comprendre l'utilité et le fonctionnement de `git stash`
 - [ ] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
-- [ ] Découverte de LazyGit
-  - [ ] Installation et configuration
-  - [ ] Intégration dans son editeur / workflow
-  - [ ] Faire le tour du propriétaire
+- [X] Découverte de LazyGit
+  - [X] Installation et configuration
+  - [X] Intégration dans son editeur / workflow
+  - [X] Faire le tour du propriétaire
 - [ ] `.gitignore` global ou pas ?
 - [ ] Comprendre quelle est la différence entre `git pull` et `git fetch`
   - [ ] À quoi sert la commande `git fetch —prune`
