@@ -31,11 +31,11 @@
   * [X] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir)
   * [X] Comprendre le principe des options dans les commandes
 
-* [ ] Choix de son éditeur, configuration et customisation
+* [X] Choix de son éditeur, configuration et customisation
 * [X] Choix / installation d'un terminal (Linux, Mac ou Windows)
 
 * [X] Comprendre l'intérêt des raccourcis clavier
-* [ ] Découverte des raccourcis clavier Linux : 
+* [X] Découverte des raccourcis clavier Linux : 
   * [X] Navigateur (fenêtres, onglets, navigation, etc …)
   * [X] Terminal (fenêtres, onglets, commandes)
   * [X] Découverte et installation de Albert (Linux) / Alfred (Mac)
