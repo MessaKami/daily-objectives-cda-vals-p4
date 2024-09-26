@@ -4,11 +4,11 @@
 
 ### Découvertes des méthodologies
 
-- [ ] Comprendre pourquoi on met en place une méthodologie de projet
-- [ ] Méthodologies traditionnelles
-- [ ] Agilité
-  - [ ] Quels sont les grands principes ?
-  - [ ] Découvrir les principales méthodes Agile
+- [X] Comprendre pourquoi on met en place une méthodologie de projet
+- [X] Méthodologies traditionnelles
+- [X] Agilité
+  - [X] Quels sont les grands principes ?
+  - [X] Découvrir les principales méthodes Agile
 - [ ] Découverte de la méthodologie SCRUM
   - [ ] Les rôles de chacun
   - [ ] les rituels à appliquer
