@@ -10,13 +10,13 @@
 ### SCRUM
 
 - [X] Savoir réaliser un daily meeting
-- [ ] Etudier les rapports SCRUM
+- [X] Etudier les rapports SCRUM
   - [ ] Etudier la vélocité
-  - [ ] Savoir construire le burndown Chart
+  - [X] Savoir construire le burndown Chart
   - [ ] Comprendre le tableau de la backlog
-- [ ] Etudier le rituel de la retrospective en détail
-  - [ ] Comprendre les Objectifs
-  - [ ] Voir les différents supports possibles
+- [X] Etudier le rituel de la retrospective en détail
+  - [X] Comprendre les Objectifs
+  - [X] Voir les différents supports possibles
   - [ ] Trouver les participants
 - [ ] Etudier le rituel de la review
   - [ ] Objectifs
