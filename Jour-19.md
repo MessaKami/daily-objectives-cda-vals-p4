@@ -12,5 +12,5 @@
     - [X] Préparer les règles métier et les processus existants
     - [X] Déterminer les contraintes légales et réglementaires
     - [X] Intégrer les standards et normes applicables
-    - [ ] Comprendre les politiques internes et les exigences spécifiques du client
+    - [X] Comprendre les politiques internes et les exigences spécifiques du client
 
