@@ -9,7 +9,7 @@
   - [X] Déterminer l'organisation et la répartition des rituels
 - [X] Utiliser les règles de gestion pour guider la collecte des exigences
 - [X] Commencer à rédiger les user stories en s'appuyant sur les règles métier identifiées
-- [ ] Prioriser les user stories en fonction de leur valeur métier et des contraintes identifiées
+- [X] Prioriser les user stories en fonction de leur valeur métier et des contraintes identifiées
 - [ ] Création du Product Backlog
     - [ ] Compiler les user stories dans un Product Backlog priorisé
     - [ ] Définir les critères d'acceptation pour chaque user story
