@@ -4,10 +4,10 @@
 
 ### Introduction à PostgreSQL et DCL
 
-- [ ] Découverte de PostgreSQL
-  - [ ] Identifier les différences entre MySQL et PostgreSQL
-  - [ ] Savoir Expliquer les avantages de PostgreSQL
-  - [ ] Savoir Choisir les cas d'usage adaptés à PostgreSQL
+- [X] Découverte de PostgreSQL
+  - [X] Identifier les différences entre MySQL et PostgreSQL
+  - [W] Savoir Expliquer les avantages de PostgreSQL
+  - [X] Savoir Choisir les cas d'usage adaptés à PostgreSQL
 
 - [ ] Installation et Configuration
   - [ ] Installation de PostgreSQL sur la machine
