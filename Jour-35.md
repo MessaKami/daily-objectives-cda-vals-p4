@@ -4,14 +4,14 @@
 
 ### SQL - Data Query Language (DQL)
 
-- [ ] Structure d'une requête SELECT
-  - [ ] Savoir écrire une requête SELECT de base
-  - [ ] Savoir sélectionner des colonnes spécifiques
-  - [ ] Savoir utiliser les alias avec AS
-  - [ ] Savoir utiliser la sélection complète (*)
+- [X] Structure d'une requête SELECT
+  - [X] Savoir écrire une requête SELECT de base
+  - [X] Savoir sélectionner des colonnes spécifiques
+  - [X] Savoir utiliser les alias avec AS
+  - [X] Savoir utiliser la sélection complète (*)
 
 - [ ] Filtrage des données
-  - [ ] Savoir utiliser la clause WHERE
+  - [X] Savoir utiliser la clause WHERE
     - [ ] Savoir utiliser les opérateurs de comparaison
     - [ ] Savoir utiliser les opérateurs logiques
     - [ ] Savoir utiliser BETWEEN
