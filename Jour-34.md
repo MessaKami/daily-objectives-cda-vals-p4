@@ -4,37 +4,37 @@
 
 ### SQL - DDL et DML
 
-- [ ] Data Definition Language (DDL)
-  - [ ] Savoir créer avec CREATE
-    - [ ] Base de données
-    - [ ] Table
-    - [ ] Index
-  - [ ] Savoir modifier avec ALTER
-    - [ ] Savoir ajouter une colonne
-    - [ ] Savoir modifier une colonne
-    - [ ] Savoir supprimer une colonne
-  - [ ] Savoir utiliser DROP et TRUNCATE
-  - [ ] Savoir définir les contraintes
-    - [ ] PRIMARY KEY
-    - [ ] FOREIGN KEY
-    - [ ] UNIQUE
-    - [ ] NOT NULL
-    - [ ] DEFAULT
-    - [ ] CHECK
+- [X] Data Definition Language (DDL)
+  - [X] Savoir créer avec CREATE
+    - [X] Base de données
+    - [X] Table
+    - [X] Index
+  - [X] Savoir modifier avec ALTER
+    - [X] Savoir ajouter une colonne
+    - [X] Savoir modifier une colonne
+    - [X] Savoir supprimer une colonne
+  - [X] Savoir utiliser DROP et TRUNCATE
+  - [X] Savoir définir les contraintes
+    - [X] PRIMARY KEY
+    - [X] FOREIGN KEY
+    - [X] UNIQUE
+    - [X] NOT NULL
+    - [X] DEFAULT
+    - [X] CHECK
 
 - [ ] Data Manipulation Language (DML)
-  - [ ] Savoir insérer des données avec INSERT
-    - [ ] Insertion simple
-    - [ ] Insertion multiple
-    - [ ] Insertion avec SELECT
-  - [ ] Savoir mettre à jour avec UPDATE
-    - [ ] Mise à jour simple
-    - [ ] Mise à jour conditionnelle
+  - [X] Savoir insérer des données avec INSERT
+    - [X] Insertion simple
+    - [X] Insertion multiple
+    - [X] Insertion avec SELECT
+  - [X] Savoir mettre à jour avec UPDATE
+    - [X] Mise à jour simple
+    - [X] Mise à jour conditionnelle
   - [ ] Savoir supprimer avec DELETE
-    - [ ] Suppression simple
-    - [ ] Suppression conditionnelle
-    - [ ] Différence avec TRUNCATE
+    - [X] Suppression simple
+    - [X] Suppression conditionnelle
+    - [X] Différence avec TRUNCATE
 
-- [ ] Exercices pratiques
-  - [ ] Création d'une base de données complète
-  - [ ] Manipulation des données
+- [X] Exercices pratiques
+  - [X] Création d'une base de données complète
+  - [X] Manipulation des données-8

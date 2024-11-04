@@ -13,7 +13,7 @@
   - [X] Installation de PostgreSQL sur la machine
   - [X] Installation de pgAdmin 4
   - [X] Installation de pgcli
-  - [ ] Configuration initiale
+  - [X] Configuration initiale
     - [X] Ports
     - [X] Mot de passe postgres
     - [X] Création du premier utilisateur
@@ -29,11 +29,11 @@
   - [ ] Gestion des droits
     - [X] Savoir attribuer des privilèges avec GRANT
       - [X] Droits sur les bases de données
-      - [ ] Droits sur les tables
-      - [ ] Droits sur les colonnes
+      - [X] Droits sur les tables
+      - [X] Droits sur les colonnes
     - [X] Gérer la révocation avec REVOKE
-      - [ ] Comment retirer des droits sur une base de données, une table ou une colonne ?
-      - [ ] Quel est l'impact d'une révocation en cascade ?
+      - [X] Comment retirer des droits sur une base de données, une table ou une colonne ?
+      - [X] Quel est l'impact d'une révocation en cascade ?
 
   - [ ] Les bonnes pratiques de sécurité
     - [ ] Comment appliquer le principe du moindre privilège dans PostgreSQL ?
