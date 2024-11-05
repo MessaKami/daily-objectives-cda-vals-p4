@@ -12,16 +12,16 @@
 
 - [ ] Filtrage des données
   - [X] Savoir utiliser la clause WHERE
-    - [ ] Savoir utiliser les opérateurs de comparaison
-    - [ ] Savoir utiliser les opérateurs logiques
-    - [ ] Savoir utiliser BETWEEN
-    - [ ] Savoir utiliser IN
-    - [ ] Savoir utiliser LIKE et ses wildcards
-    - [ ] Savoir gérer les NULL
+    - [X] Savoir utiliser les opérateurs de comparaison
+    - [X] Savoir utiliser les opérateurs logiques
+    - [X] Savoir utiliser BETWEEN
+    - [X] Savoir utiliser IN
+    - [X] Savoir utiliser LIKE et ses wildcards
+    - [X] Savoir gérer les NULL
 
 - [ ] Organisation des résultats
-  - [ ] Savoir trier avec ORDER BY
-    - [ ] ASC / DESC
+  - [X] Savoir trier avec ORDER BY
+    - [X] ASC / DESC
     - [ ] Tri multi-colonnes
   
   - [ ] Savoir utiliser DISTINCT
