@@ -24,5 +24,5 @@
     - [X] ASC / DESC
     - [ ] Tri multi-colonnes
   
-  - [ ] Savoir utiliser DISTINCT
-  - [ ] Savoir utiliser LIMIT et OFFSET
+  - [X] Savoir utiliser DISTINCT
+  - [X] Savoir utiliser LIMIT et OFFSET
