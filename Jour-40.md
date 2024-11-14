@@ -4,29 +4,29 @@
 
 ### Introduction à la méthode MERISE et au MCD
 
-- [ ] Découverte de MERISE
-  - [ ] Comprendre l'historique et le contexte
-  - [ ] Identifier les différents niveaux de MERISE
-  - [ ] Comprendre le vocabulaire de base
+- [X] Découverte de MERISE
+  - [X] Comprendre l'historique et le contexte
+  - [X] Identifier les différents niveaux de MERISE
+  - [X] Comprendre le vocabulaire de base
 
-- [ ] Les concepts de base du MCD
-  - [ ] Les entités
-    - [ ] Savoir définir les entités
-    - [ ] Savoir nommer les entités
-    - [ ] Savoir identifier les occurrences
+- [X] Les concepts de base du MCD
+  -[X] Les entités
+    - [X] Savoir définir les entités
+    - [X] Savoir nommer les entités
+    - [X] Savoir identifier les occurrences
   
-  - [ ] Le dictionnaire de données
-    - [ ] Savoir créer un dictionnaire de données
-    - [ ] Savoir définir les propriétés
-    - [ ] Savoir typer les propriétés
-    - [ ] Savoir documenter les propriétés
+  - [X] Le dictionnaire de données
+    - [X] Savoir créer un dictionnaire de données
+    - [X] Savoir définir les propriétés
+    - [X] Savoir typer les propriétés
+    - [X] Savoir documenter les propriétés
   
-  - [ ] Les associations
-    - [ ] Savoir définir les associations
-    - [ ] Savoir nommer les associations
-    - [ ] Savoir identifier les cardinalités
+  - [X] Les associations
+    - [X] Savoir définir les associations
+    - [X] Savoir nommer les associations
+    - [X] Savoir identifier les cardinalités
 
-- [ ] Les règles de gestion
-  - [ ] Savoir extraire les règles d'un cahier des charges
-  - [ ] Savoir formaliser les règles de gestion
-  - [ ] Savoir valider la cohérence des règles
+- [X] Les règles de gestion
+  - [X] Savoir extraire les règles d'un cahier des charges
+  - [X] Savoir formaliser les règles de gestion
+  - [X] Savoir valider la cohérence des règles
