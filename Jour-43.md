@@ -13,8 +13,8 @@
   - [X] Comprendre la 2ème forme normale (2FN)
   - [X] Comprendre la 3ème forme normale (3FN)
 
-- [ ] Les dépendances fonctionnelles
-  - [ ] Savoir identifier les DF élémentaires
-  - [ ] Savoir identifier les DF composées
-  - [ ] Savoir identifier les DF transitives
+- [X] Les dépendances fonctionnelles
+  - [X] Savoir identifier les DF élémentaires
+  - [X] Savoir identifier les DF composées
+  - [X] Savoir identifier les DF transitives
 
