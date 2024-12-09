@@ -2,4 +2,4 @@
 
 ## Mardi 19/11/2024 :
 
-- [ ] Travailler sur le brief "Simpluedo" 
+- [X] Travailler sur le brief "Simpluedo" 
