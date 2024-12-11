@@ -4,17 +4,17 @@
 
 ### Java - Collections et Gestion des Exceptions
 
-- [ ] Découvrir les Collections Java
-  - [ ] List (ArrayList, LinkedList)
-  - [ ] Set (HashSet, TreeSet)
-  - [ ] Map (HashMap, TreeMap)
-  - [ ] Utilisation des Generics
+- [X] Découvrir les Collections Java
+  - [X] List (ArrayList, LinkedList)
+  - [X] Set (HashSet, TreeSet)
+  - [X] Map (HashMap, TreeMap)
+  - [X] Utilisation des Generics
 
-- [ ] Gérer les exceptions
-  - [ ] Utilisation de try-catch-finally
-  - [ ] Propagation des exceptions avec throws
-  - [ ] Création d'exceptions personnalisées
+- [X] Gérer les exceptions
+  - [X] Utilisation de try-catch-finally
+  - [X] Propagation des exceptions avec throws
+  - [X] Création d'exceptions personnalisées
 
-- [ ] Exercices pratiques
-  - [ ] Manipuler une liste d'objets (ajouter, supprimer, trier)
+- [X] Exercices pratiques
+  - [X] Manipuler une liste d'objets (ajouter, supprimer, trier)
   - [ ] Écrire un programme qui gère les exceptions lors de la lecture d'un fichier 

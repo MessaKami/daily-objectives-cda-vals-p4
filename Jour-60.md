@@ -13,7 +13,7 @@
   - [X] Mot clé finally
   - [X] Propagation des exceptions
   - [X] Création d'exceptions personnalisées
-- [ ] Initiation aux bonnes pratiques
-  - [ ] Découverte du principe SOLID
-- [ ] Exercices pratiques
+- [X] Initiation aux bonnes pratiques
+  - [X] Découverte du principe SOLID
+- [X] Exercices pratiques
   
