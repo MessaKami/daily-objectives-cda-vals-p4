@@ -4,14 +4,14 @@
 
 ### Programmation Orientée Objet - Concepts avancés
 
-- [ ] Étudier le concept d'héritage
-  - [ ] Fonctionnement du mode parent/enfant
-  - [ ] Utilisation du mot clé super
-  - [ ] Fonctionnalités étendues entre un parent et un enfant
-- [ ] Analyse du concept de polymorphisme
-  - [ ] Méthode commune
-  - [ ] Surcharge
-- [ ] Apprentissage des relations possibles entre les classes
-  - [ ] Association
-  - [ ] Agrégation
-  - [ ] Composition
+- [X] Étudier le concept d'héritage
+  - [X] Fonctionnement du mode parent/enfant
+  - [X] Utilisation du mot clé super
+  - [X] Fonctionnalités étendues entre un parent et un enfant
+- [X] Analyse du concept de polymorphisme
+  - [X] Méthode commune
+  - [X] Surcharge
+- [X] Apprentissage des relations possibles entre les classes
+  - [X] Association
+  - [X] Agrégation
+  - [X] Composition

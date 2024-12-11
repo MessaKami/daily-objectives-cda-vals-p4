@@ -17,5 +17,5 @@
 
 - [X] Exercices pratiques
   - [X] Créer une classe simple avec des attributs et des méthodes
-  - [ ] Instancier des objets et appeler des méthodes 
+  - [X] Instancier des objets et appeler des méthodes 
   
