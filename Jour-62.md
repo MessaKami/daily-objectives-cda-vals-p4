@@ -4,32 +4,32 @@
 
 ### UML - Découverte et diagramme de cas d'utilisation
 
-- [ ] Découverte de l'UML
-  - [ ] Comprendre la signification de l'UML
-  - [ ] Comprendre les origines de l'UML. Pour a-t-il été créé ? (pour quels besoins)
-  - [ ] Quels sont les objectifs d'utiliser UML ?
-  - [ ] Comparaison avec la méthode MERISE ?
-  - [ ] Avantages / Inconvénients
+- [X] Découverte de l'UML
+  - [X] Comprendre la signification de l'UML
+  - [X] Comprendre les origines de l'UML. Pour a-t-il été créé ? (pour quels besoins)
+  - [X] Quels sont les objectifs d'utiliser UML ?
+  - [X] Comparaison avec la méthode MERISE ?
+  - [X] Avantages / Inconvénients
 
-- [ ] Découverte des Diagrammes
-  - [ ] Lister les types de diagrammes existants
-  - [ ] Lister les diagrammes existants
-  - [ ] Comprendre l'intérêt de chacun des diagrammes
-  - [ ] Etudier les interactions existantes entre chacun des Diagrammes
+- [X] Découverte des Diagrammes
+  - [x] Lister les types de diagrammes existants
+  - [x] Lister les diagrammes existants
+  - [X] Comprendre l'intérêt de chacun des diagrammes
+  - [X] Etudier les interactions existantes entre chacun des Diagrammes
 
-- [ ] Découverte des outils
-  - [ ] Trouver des outils type clients lourds
-  - [ ] Trouver des outils cloud
+- [X] Découverte des outils
+  - [X] Trouver des outils type clients lourds
+  - [X] Trouver des outils cloud
   
-- [ ] Initiation au diagramme de cas d'utilisation
-  - [ ] Comprendre les objectifs (d'un point de vue client / d'un point de vue développeur)
-  - [ ] Comment représenter un système d'information complet
-  - [ ] Etudier les concepts clés du diagramme de cas d'utilisation
-    - [ ]  les acteurs
-	- [ ] les cas d'utilisation
-	- [ ] le système
-  - [ ] Comprendre le lien entre les User Stories et les cas d'utilisation
+- [X] Initiation au diagramme de cas d'utilisation
+  - [X] Comprendre les objectifs (d'un point de vue client / d'un point de vue développeur)
+  - [X] Comment représenter un système d'information complet
+  - [X] Etudier les concepts clés du diagramme de cas d'utilisation
+    -[X]  les acteurs
+	- [X] les cas d'utilisation
+	- [X] le système
+  - [X] Comprendre le lien entre les User Stories et les cas d'utilisation
   
-- [ ] Cas pratique
+- [X] Cas pratique
   - [ ] Réaliser une carte mentale des diagrammes
-  - [ ] Réaliser le diagramme de cas d'utilisation d'un DAB
+  - [X] Réaliser le diagramme de cas d'utilisation d'un DAB
