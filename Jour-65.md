@@ -5,10 +5,10 @@
 ### UML - Diagramme de séquences
 
 - [ ] Découverte du diagramme de séquences
-  - [ ] Comprendre ses objectifs
-  - [ ] Identifier les différents éléments
-    - [ ] Les acteurs
-	- [ ] Les messages
+  - [X] Comprendre ses objectifs
+  - [X] Identifier les différents éléments
+    - [X] Les acteurs
+	- [X] Les messages
 	  - [ ] Comprendre et représenter les messages synchrones
 	  - [ ] Comprendre et représenter les messages asynchrones
 	  - [ ] Comprendre et représenter les messages auto-référencées
@@ -20,9 +20,9 @@
 	  - [ ] La structure ref
 	
 - [ ] Comprendre le passage du diagramme de classes au diagramme de séquences
-  - [ ] Comment passer de l'un à l'autre
-  - [ ] Lien entre les classes et les acteurs
-  - [ ] Comprendre l'utilité pour les développeurs
+  - [X] Comment passer de l'un à l'autre
+  - [X] Lien entre les classes et les acteurs
+  - [X] Comprendre l'utilité pour les développeurs
   - [ ] Comprendre la possibilité de génération de code
   
 - [ ] Cas pratiques :
