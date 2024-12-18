@@ -4,24 +4,24 @@
 
 ### Diagramme de classes - Notions avancées
 
-- [ ] Finir les objectifs de la veille
+- [X] Finir les objectifs de la veille
 
-- [ ] Approfondir les connaissances sur le diagramme de classes 
-  - [ ] Comprendre la notion d'association
-  - [ ] Etudier les différentes multiplicités et leur signification
-  - [ ] Comprendre l'agrégation
-  - [ ] Comprendre la composition
-  - [ ] Etudier les différences entre les 2
-  - [ ] Intégrer les packages
+- [X] Approfondir les connaissances sur le diagramme de classes 
+  - [X] Comprendre la notion d'association
+  - [X] Etudier les différentes multiplicités et leur signification
+  - [X] Comprendre l'agrégation
+  - [X] Comprendre la composition
+  - [X] Etudier les différences entre les 2
+  - [X] Intégrer les packages
   
-- [ ] Comprendre l'héritage
-  - [ ] Savoir représenter un généralisation / une spécialisation
-  - [ ] Représenter une classe abstraite
-  - [ ] Représenter une interface
+- [X] Comprendre l'héritage
+  - [X] Savoir représenter un généralisation / une spécialisation
+  - [X] Représenter une classe abstraite
+  - [X] Représenter une interface
   
-- [ ] Savoir lire un diagramme de classes complets
+- [X] Savoir lire un diagramme de classes complets
 
-- [ ] Cas pratiques
-  - [ ] Modéliser un système pour gérer les activités d'un cinéma (films, salles, séances)
-  - [ ] Modéliser la gestion d'une école
+- [X] Cas pratiques
+  - [X] Modéliser un système pour gérer les activités d'un cinéma (films, salles, séances)
+  - [] Modéliser la gestion d'une école
   - [ ] Modéliser un système de gestion de projets (projets, équipes, membres, tâches, sous tâches)
