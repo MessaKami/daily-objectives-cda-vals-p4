@@ -4,24 +4,24 @@
 
 ### UML - Diagramme d'activité
 
-- [ ] Découverte du diagramme d'activité
-  - [ ] Comprendre l'utilité du diagramme d'activité
-  - [ ] Dans quels cas l'utiliser ?
-  - [ ] Quels sont ses avantages ?
+- [X] Découverte du diagramme d'activité
+  - [X] Comprendre l'utilité du diagramme d'activité
+  - [X] Dans quels cas l'utiliser ?
+  - [X] Quels sont ses avantages ?
 
-- [ ] Identifier les éléments de base
-  - [ ] Le début et la fin
-  - [ ] Les actions
-  - [ ] Les transitions (flèches)
-  - [ ] Les conditions (les losanges)
-  - [ ] Les barres de synchronisation
-  - [ ] Les couloirs (swimlanes)
+- [X] Identifier les éléments de base
+  - [X] Le début et la fin
+  - [X] Les actions
+  - [X] Les transitions (flèches)
+  - [X] Les conditions (les losanges)
+  - [X] Les barres de synchronisation
+  - [X] Les couloirs (swimlanes)
 
-- [ ] Comprendre l'utilisation pratique
-  - [ ] Comment organiser les activités
-  - [ ] Comment représenter les choix
-  - [ ] Comment montrer les actions parallèles
-  - [ ] Comment utiliser les couloirs pour séparer les acteurs
+- [X] Comprendre l'utilisation pratique
+  - [X] Comment organiser les activités
+  - [X] Comment représenter les choix
+  - [X] Comment montrer les actions parallèles
+  - [X] Comment utiliser les couloirs pour séparer les acteurs
 
 - [ ] Cas pratiques simples
   - [ ] Modéliser le processus d'inscription d'un utilisateur sur un site web

@@ -9,21 +9,21 @@
   - [X] Identifier les différents éléments
     - [X] Les acteurs
 	- [X] Les messages
-	  - [ ] Comprendre et représenter les messages synchrones
-	  - [ ] Comprendre et représenter les messages asynchrones
-	  - [ ] Comprendre et représenter les messages auto-référencées
-	- [ ] Comprendre et savoir utiliser les structures
-	  - [ ] La structure alt
-	  - [ ] La structure opt
-	  - [ ] La structure loop
-	  - [ ] La structure par
-	  - [ ] La structure ref
+	  - [X] Comprendre et représenter les messages synchrones
+	  - [X] Comprendre et représenter les messages asynchrones
+	  - [X] Comprendre et représenter les messages auto-référencées
+	- [X] Comprendre et savoir utiliser les structures
+	  - [X] La structure alt
+	  - [X] La structure opt
+	  - [X] La structure loop
+	  - [X] La structure par
+	  - [X] La structure ref
 	
-- [ ] Comprendre le passage du diagramme de classes au diagramme de séquences
+- [X] Comprendre le passage du diagramme de classes au diagramme de séquences
   - [X] Comment passer de l'un à l'autre
   - [X] Lien entre les classes et les acteurs
   - [X] Comprendre l'utilité pour les développeurs
-  - [ ] Comprendre la possibilité de génération de code
+  - [X] Comprendre la possibilité de génération de code
   
 - [ ] Cas pratiques :
   - [ ] Modéliser le diagramme de séquences pour un système de réservation dans un restaurant
