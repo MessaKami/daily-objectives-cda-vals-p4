@@ -15,18 +15,18 @@ Les points sont ensuite multipliés par la pondération du critère (x2 ou x1.5)
 
 ## 1. Tableau de Comparaison Principal
 
-| Critères (Score Max: 130)              | Express | NestJS | Fastify | Koa | AdonisJS |
-|----------------------------------------|---------|---------|----------|-----|-----------|
-| **Performance (x2)**                   |         |         |          |     |           |
-| **Sécurité (x1.5)**                   |         |         |          |     |           |
-| **DX - Developer Experience (x1.5)**   |         |         |          |     |           |
-| **Coût de développement (x1.5)**       |         |         |          |     |           |
-| **Maturité écosystème**               |         |         |          |     |           |
-| **Tests et Qualité (x1.5)**           |         |         |          |     |           |
-| **Documentation**                      |         |         |          |     |           |
-| **Support communauté**                 |         |         |          |     |           |
-| **Extensibilité**                      |         |         |          |     |           |
-| **Typologie des projets**             |         |         |          |     |           |
+| Critères (Score Max: 130)            | Express  | NestJS   | NestJS-Fastify | Fastify    | Koa      | AdonisJS |
+| ------------------------------------ | -------- | -------- | -------------- | ---------- | -------- | -------- |
+| **Performance (x2)**                 | ⭐⭐     | ⭐⭐     | ⭐⭐⭐⭐       | ⭐⭐⭐⭐⭐ | ⭐⭐⭐   | ⭐⭐⭐   |
+| **Sécurité (x1.5)**                  | ⭐⭐     | ⭐⭐⭐⭐ | ⭐⭐⭐⭐       | ⭐⭐⭐     | ⭐⭐     | ⭐⭐⭐⭐ |
+| **DX - Developer Experience (x1.5)** | ⭐⭐⭐⭐ | ⭐⭐⭐   | ⭐⭐⭐         | ⭐⭐⭐⭐   | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **Coût de développement (x1.5)**     | ⭐⭐⭐   | ⭐⭐     | ⭐⭐           | ⭐⭐⭐⭐   | ⭐⭐⭐   | ⭐⭐⭐⭐ |
+| **Maturité écosystème**              | ⭐⭐     | ⭐⭐⭐⭐ | ⭐⭐⭐⭐       | ⭐⭐⭐⭐   | ⭐⭐     | ⭐⭐⭐   |
+| **Tests et Qualité (x1.5)**          |          |          |                |            |          |          |
+| **Documentation**                    | ⭐⭐⭐   | ⭐⭐⭐⭐ |                | ⭐⭐⭐     | ⭐⭐     | ⭐⭐⭐⭐ |
+| **Support communauté**               | ⭐⭐⭐   | ⭐⭐⭐⭐ |                | ⭐⭐⭐⭐   | ⭐⭐     | ⭐⭐     |
+| **Extensibilité**                    |          |          |                |            |          |          |
+| **Typologie des projets**            |          |          |                |            |          |          |
 
 ## 2. Métriques Objectives
 
@@ -100,14 +100,15 @@ Les points sont ensuite multipliés par la pondération du critère (x2 ou x1.5)
 
 ## 5. Métriques GitHub et Communauté
 
-| Métriques                  | Express | NestJS | Fastify | Koa | AdonisJS |
-|---------------------------|---------|---------|----------|-----|-----------|
-| GitHub Stars              |         |         |          |     |           |
-| Contributeurs             |         |         |          |     |           |
-| Issues ouvertes           |         |         |          |     |           |
-| Pull Requests             |         |         |          |     |           |
-| Dernier commit            |         |         |          |     |           |
-| Questions StackOverflow   |         |         |          |     |           |
+| Métriques               | Express      | NestJS | Fastify | Koa        | AdonisJS     |
+| ----------------------- | ------------ | ------ | ------- | ---------- | ------------ |
+| GitHub Stars            | 62.4k        | 68.8k  | 32.8k   | 35.3k      | 17.2k        |
+| Contributeurs           | 321          | 501    | 772     | 245        | 64           |
+| Utilisé par             | (pas d'info) | 575k   | 144k    | 460k       | (pas d'info) |
+| Issues ouvertes         | 109          | 28     | 66      | 19         | 4            |
+| Pull Requests           | 106          | 16     | 29      | 11         | 0            |
+| Dernier commit          | 02/01/2025   | today  | today   | 04/11/2024 | 15/12/2024   |
+| Questions StackOverflow |              |        |         |            |              |
 
 ## 6. Considérations Légales et Commerciales
 
