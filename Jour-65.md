@@ -4,7 +4,7 @@
 
 ### UML - Diagramme de séquences
 
-- [ ] Découverte du diagramme de séquences
+- [x] Découverte du diagramme de séquences
   - [X] Comprendre ses objectifs
   - [X] Identifier les différents éléments
     - [X] Les acteurs
@@ -25,7 +25,7 @@
   - [X] Comprendre l'utilité pour les développeurs
   - [X] Comprendre la possibilité de génération de code
   
-- [ ] Cas pratiques :
-  - [ ] Modéliser le diagramme de séquences pour un système de réservation dans un restaurant
-  - [ ] Modéliser le diagramme de séquences pour la réservation d'un livre dans une bibliothèque
+- [x] Cas pratiques :
+  - [x] Modéliser le diagramme de séquences pour un système de réservation dans un restaurant
+  - [x] Modéliser le diagramme de séquences pour la réservation d'un livre dans une bibliothèque
 	  
