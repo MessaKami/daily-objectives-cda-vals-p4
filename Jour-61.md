@@ -17,4 +17,4 @@
 
 - [X] Exercices pratiques
   - [X] Manipuler une liste d'objets (ajouter, supprimer, trier)
-  - [ ] Écrire un programme qui gère les exceptions lors de la lecture d'un fichier 
+  - [X] Écrire un programme qui gère les exceptions lors de la lecture d'un fichier 
