@@ -9,7 +9,7 @@
   - [W] Savoir Expliquer les avantages de PostgreSQL
   - [X] Savoir Choisir les cas d'usage adaptés à PostgreSQL
 
-- [ ] Installation et Configuration
+- [X] Installation et Configuration
   - [X] Installation de PostgreSQL sur la machine
   - [X] Installation de pgAdmin 4
   - [X] Installation de pgcli
@@ -26,7 +26,7 @@
     - [X] Savoir supprimer des utilisateurs avec DROP USER
     - [X] Savoir utiliser les rôles PostgreSQL
   
-  - [ ] Gestion des droits
+  - [X] Gestion des droits
     - [X] Savoir attribuer des privilèges avec GRANT
       - [X] Droits sur les bases de données
       - [X] Droits sur les tables
@@ -35,7 +35,7 @@
       - [X] Comment retirer des droits sur une base de données, une table ou une colonne ?
       - [X] Quel est l'impact d'une révocation en cascade ?
 
-  - [ ] Les bonnes pratiques de sécurité
-    - [ ] Comment appliquer le principe du moindre privilège dans PostgreSQL ?
-    - [ ] Quand utiliser des rôles plutôt que des utilisateurs individuels ?
-    - [ ] Comment auditer efficacement les droits d'accès ?
+  - [X] Les bonnes pratiques de sécurité
+    - [X] Comment appliquer le principe du moindre privilège dans PostgreSQL ?
+    - [X] Quand utiliser des rôles plutôt que des utilisateurs individuels ?
+    - [X] Comment auditer efficacement les droits d'accès ?
