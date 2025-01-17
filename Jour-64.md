@@ -23,5 +23,5 @@
 
 - [X] Cas pratiques
   - [X] Modéliser un système pour gérer les activités d'un cinéma (films, salles, séances)
-  - [] Modéliser la gestion d'une école
-  - [ ] Modéliser un système de gestion de projets (projets, équipes, membres, tâches, sous tâches)
+  - [x] Modéliser la gestion d'une école
+  - [x] Modéliser un système de gestion de projets (projets, équipes, membres, tâches, sous tâches)
