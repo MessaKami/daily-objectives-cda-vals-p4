@@ -10,9 +10,9 @@
 - [X] Utiliser les règles de gestion pour guider la collecte des exigences
 - [X] Commencer à rédiger les user stories en s'appuyant sur les règles métier identifiées
 - [X] Prioriser les user stories en fonction de leur valeur métier et des contraintes identifiées
-- [ ] Création du Product Backlog
-    - [ ] Compiler les user stories dans un Product Backlog priorisé
-    - [ ] Définir les critères d'acceptation pour chaque user story
-    - [ ] Maintenir le backlog comme un document vivant, ajustable en fonction du feedback
+- [x] Création du Product Backlog
+    - [x] Compiler les user stories dans un Product Backlog priorisé
+    - [x] Définir les critères d'acceptation pour chaque user story
+    - [x] Maintenir le backlog comme un document vivant, ajustable en fonction du feedback
 
 
