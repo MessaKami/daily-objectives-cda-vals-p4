@@ -23,7 +23,7 @@
   - [X] Comment montrer les actions parallèles
   - [X] Comment utiliser les couloirs pour séparer les acteurs
 
-- [ ] Cas pratiques simples
-  - [ ] Modéliser le processus d'inscription d'un utilisateur sur un site web
-  - [ ] Modéliser le processus de paiement en ligne
-  - [ ] Modéliser le processus de validation d'une demande de congés
+- [X] Cas pratiques simples
+  - [X] Modéliser le processus d'inscription d'un utilisateur sur un site web
+  - [X] Modéliser le processus de paiement en ligne
+  - [X] Modéliser le processus de validation d'une demande de congés
