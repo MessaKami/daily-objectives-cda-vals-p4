@@ -16,4 +16,3 @@
 - [X] Initiation aux bonnes pratiques
   - [X] Découverte du principe SOLID
 - [X] Exercices pratiques
-  
