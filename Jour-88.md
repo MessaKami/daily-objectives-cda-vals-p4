@@ -4,36 +4,36 @@
 
 ### Architecture N-Tiers et MVC - Mise en Pratique
 
-- [ ] Implémentation d'une Architecture N-Tiers
-  - [ ] Mise en place de la couche présentation
-    - [ ] Interface utilisateur
-    - [ ] Gestion des entrées/sorties
-  - [ ] Mise en place de la couche métier
-    - [ ] Services
-    - [ ] Logique applicative
-  - [ ] Mise en place de la couche données
-    - [ ] Accès aux données
-    - [ ] Modèles de données
+- [x] Implémentation d'une Architecture N-Tiers
+  - [x] Mise en place de la couche présentation
+    - [x] Interface utilisateur
+    - [x] Gestion des entrées/sorties
+  - [x] Mise en place de la couche métier
+    - [x] Services
+    - [x] Logique applicative
+  - [x] Mise en place de la couche données
+    - [x] Accès aux données
+    - [x] Modèles de données
 
-- [ ] Implémentation du Pattern MVC
-  - [ ] Création des Modèles
-    - [ ] Définition des entités
-    - [ ] Logique métier
-  - [ ] Création des Vues
-    - [ ] Templates
-    - [ ] Rendu des données
-  - [ ] Création des Contrôleurs
-    - [ ] Routage
-    - [ ] Gestion des actions
+- [x] Implémentation du Pattern MVC
+  - [x] Création des Modèles
+    - [x] Définition des entités
+    - [x] Logique métier
+  - [x] Création des Vues
+    - [x] Templates
+    - [x] Rendu des données
+  - [x] Création des Contrôleurs
+    - [x] Routage
+    - [x] Gestion des actions
 
-- [ ] Bonnes Pratiques
-  - [ ] Séparation des responsabilités
-  - [ ] Injection de dépendances
-  - [ ] Gestion des erreurs
-  - [ ] Documentation du code
+- [x] Bonnes Pratiques
+  - [x] Séparation des responsabilités
+  - [x] Injection de dépendances
+  - [x] Gestion des erreurs
+  - [x] Documentation du code
 
-- [ ] Projet Pratique
-  - [ ] Développement d'une application simple
-  - [ ] Application des patterns étudiés
-  - [ ] Tests de l'architecture
-  - [ ] Revue de code 
+- [x] Projet Pratique
+  - [x] Développement d'une application simple
+  - [x] Application des patterns étudiés
+  - [x] Tests de l'architecture
+  - [x] Revue de code 
